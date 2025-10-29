@@ -1,0 +1,13 @@
+[project]
+name = "sarncss"
+version = "1.0.0"
+description = "idk just liba lib"
+authors = [{ name = "sorncss" }]
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+dependencies = []
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "hatchling.build"
